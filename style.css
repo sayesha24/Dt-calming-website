@@ -1,0 +1,183 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+
+  display:block;
+}
+
+.heading{
+
+  background-color:pink;
+  font-size: 20px;
+  padding-top: 10px;
+  position: absolute;
+  width: 1920px;
+  height: 80px;
+  object-fit:fill;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.allItems{
+
+  display: flex;
+  justify-content: center;
+  margin: 0px;
+}
+
+.quote{
+ 
+  position: absolute;
+  background-color: powderblue;
+  left:1300px;
+  top: 700px;
+  font-size: 25px;
+  opacity: 70%;
+  padding-left: 20px;
+  padding-right: 20px;
+  width: 190px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+ 
+}
+
+.inputBox{
+
+  position: absolute;
+  bottom: 0px;
+  top: 700px;
+  left: 100px;
+  height: 0px;
+  font-size: 100px;
+  opacity: 70%;
+  
+}
+
+textarea{
+
+  font-size: 20px;
+  width: 500px;
+  height: 250px;
+  background-color:rgb(209, 235, 140);
+  }
+
+  .natureSounds{
+
+    position: absolute;
+    left: 160px;
+    top: 200px;
+    height: 80px;
+    border-radius: 25px;
+    width: 210px;
+    font-size: 24px;
+    font-family:'Courier New', Courier, monospace;
+    opacity: 70%;
+    color:darkred;
+    
+    background-color:rgb(255, 157, 0);
+  
+  }
+  
+  .brainwavesSounds{
+  
+    position: absolute;
+    top: 450px;
+    left: 155px;
+    height: 80px;
+    background-color:rgb(255, 157, 0);
+    border-radius: 25px;
+    width: 230px;
+    font-size: 24px;
+    font-family:'Courier New', Courier, monospace;
+    opacity: 70%;
+    color:darkred;
+    padding-right: 10px;
+    
+  }
+  .brainwavesSounds p{
+
+    text-align: center;
+  }
+
+  .Newlink{
+
+    position:absolute;
+    left: 1400px;
+    top:1010px;
+    font-size: 23px;
+  }
+
+  .heading2{
+
+    background-color:rgb(162, 240, 162);
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 05px;
+    
+  }
+
+  .research_natureSounds{
+
+    font-size: 30px;
+    position: absolute;
+    background-color:rgb(243, 155, 217);
+    width: 1100px;
+    left: 20px;
+    padding-left: 30px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+
+.research_natureSounds h4{
+
+  font-family:Arial, Helvetica, sans-serif
+}
+
+.research_brainwaves{
+
+  position: absolute;
+  font-size: 30px;
+  background-color: rgb(251, 179, 84);
+  width: 1100px;
+  top: 800px;
+  left: 20px;
+  padding-left: 30px;
+  font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  margin-bottom: 1000px;
+
+}
+
+.research_brainwaves h4{
+
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+.research_brainwaves h5{
+
+  color: rgb(179, 17, 66);
+}
+  .img1{
+  
+    position: absolute;
+    left: 1200px;
+    bottom: 600px;
+  
+  }
+  
+  .img2{
+  
+    position: absolute;
+    left: 1200px;
+    top: 1200px;
+    height: 20px;
+  }
+
+  .img3{
+
+    position: absolute;
+    left: 1200px;
+    top: 650px;
+  }
+
+
+  
